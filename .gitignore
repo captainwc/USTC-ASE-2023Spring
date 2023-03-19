@@ -2,7 +2,7 @@
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
 
-# vscode
+# when using vscode
 .vscode/
 
 # for class
@@ -15,6 +15,10 @@
 *.dll
 *.so
 *.dylib
+
+# maybe this reposity will use some cpp
+*.o
+*.a
 
 # Test binary, built with `go test -c`
 *.test
