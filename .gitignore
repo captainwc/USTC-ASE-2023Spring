@@ -8,6 +8,7 @@
 # for class
 *.md
 !README.md
+src/
 
 # Binaries for programs and plugins
 *.exe
